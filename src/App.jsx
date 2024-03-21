@@ -76,7 +76,7 @@ import './App.css'
 // }
 
 
-
+//Exercise 1
   const Header = (props) => {
     console.log(props)
     return (
